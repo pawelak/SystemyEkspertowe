@@ -1,0 +1,106 @@
+[
+  {
+    "Id": "q0",
+    "Answer": null,
+    "Question": "Witam!!!",
+    "Reference": [ "q1" ]
+  },
+  {
+    "Id": "q1",
+    "Answer": null,
+    "Question": "Czy czujesz siê chory?",
+    "Reference": [ "q2", "q3" ]
+  },
+  {
+    "Id": "q2",
+    "Answer": "Dobrze",
+    "Question": "Kiedy siê ostatnio bada³eœ?",
+    "Reference": [ "q5", "q6", "q7" ]
+  },
+  {
+    "Id": "q5",
+    "Answer": "W tym miesi¹cu",
+    "Question": "Najprawdopodobniej jesteœ zdrowy!",
+    "Reference": null
+  },
+  {
+    "Id": "q6",
+    "Answer": "1-6 miesiaca",
+    "Question": "Warto pomyœleæ o wyzycie u lekarza",
+    "Reference": null
+  },
+  {
+    "Id": "q7",
+    "Answer": "ponad rok temu",
+    "Question": "koniecznie wykonaj badania okresowe, jesteœ w strefie podwy¿szonego ryzyka",
+    "Reference": null
+  },
+  {
+    "Id": "q3",
+    "Answer": "¯le",
+    "Question": "Co Ci dolega?",
+    "Reference": [ "q30", "q31", "q32", "q33", "q34", "q35" ]
+  },
+  {
+    "Id": "q30",
+    "Answer": "Gor¹czka",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "q300", "q301", "q302", "q303" ]
+  },
+  {
+    "Id": "q300",
+    "Answer": ">35",
+    "Question": "Zg³oœ siê natychmiast do lekarza!!!",
+    "Reference": null
+  },
+  {
+    "Id": "q301",
+    "Answer": "35-37",
+    "Question": "Jesteœ zdrowy",
+    "Reference": null
+  },
+  {
+    "Id": "q302",
+    "Answer": "37-40",
+    "Question": "WeŸl leki przeciwgor¹czkowe",
+    "Reference": null
+  },
+  {
+    "Id": "q303",
+    "Answer": "37-40",
+    "Question": "Zg³oœ siê do lekarza",
+    "Reference": null
+  },
+  {
+    "Id": "q31",
+    "Answer": "Drgawki",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "???" ]
+  },
+  {
+    "Id": "q32",
+    "Answer": "Wysokie ciœnienie",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "???" ]
+  },
+  {
+    "Id": "q33",
+    "Answer": "Biegunka",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "???" ]
+  },
+  {
+    "Id": "q34",
+    "Answer": "Czujê siê s³abo",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "???" ]
+  },
+  {
+    "Id": "q35",
+    "Answer": "Ból zêba",
+    "Question": "Jaka wysokoœæ?",
+    "Reference": [ "???" ]
+  }
+
+
+]
