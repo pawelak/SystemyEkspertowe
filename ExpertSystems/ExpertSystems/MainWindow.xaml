@@ -14,13 +14,13 @@
                 <TextBlock Name="QuestionText"
                            Width="370"
                            FontSize="16"
-                           Height="50"
+                           Height="150"
                            TextWrapping="WrapWithOverflow"
                            TextAlignment="Center"
                            FontWeight="Bold"></TextBlock>
             </StackPanel>
             <StackPanel Name="AnswersPanel"
-                        Height="200"
+                        Height="100"
                         Margin="5"
                         HorizontalAlignment="Center"
                         Orientation="Vertical"></StackPanel>
